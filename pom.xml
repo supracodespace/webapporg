@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+	      <url>http://54.147.189.209:8081/repository/phase2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
